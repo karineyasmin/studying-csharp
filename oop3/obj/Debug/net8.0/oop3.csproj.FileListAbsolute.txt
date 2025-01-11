@@ -1,0 +1,15 @@
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/bin/Debug/net8.0/oop3
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/bin/Debug/net8.0/oop3.deps.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/bin/Debug/net8.0/oop3.runtimeconfig.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/bin/Debug/net8.0/oop3.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/bin/Debug/net8.0/oop3.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/oop3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/oop3.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/oop3.AssemblyInfo.cs
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/oop3.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/oop3.sourcelink.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/oop3.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/refint/oop3.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/oop3.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/oop3.genruntimeconfig.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/Debug/net8.0/ref/oop3.dll

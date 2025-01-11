@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop/oop.csproj",
-      "projectName": "oop",
-      "projectPath": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop/oop.csproj",
+      "projectUniqueName": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/oop2.csproj",
+      "projectName": "oop2",
+      "projectPath": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/oop2.csproj",
       "packagesPath": "/home/ky/.nuget/packages/",
-      "outputPath": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop/obj/",
+      "outputPath": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ky/.nuget/NuGet/NuGet.Config"

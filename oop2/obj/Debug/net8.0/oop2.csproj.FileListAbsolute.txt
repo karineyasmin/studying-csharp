@@ -1,0 +1,15 @@
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/oop2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/oop2.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/oop2.AssemblyInfo.cs
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/oop2.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/oop2.sourcelink.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/bin/Debug/net8.0/oop2
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/bin/Debug/net8.0/oop2.deps.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/bin/Debug/net8.0/oop2.runtimeconfig.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/bin/Debug/net8.0/oop2.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/bin/Debug/net8.0/oop2.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/oop2.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/refint/oop2.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/oop2.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/oop2.genruntimeconfig.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/oop2/obj/Debug/net8.0/ref/oop2.dll

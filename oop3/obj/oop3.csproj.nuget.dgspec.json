@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop/oop.csproj": {}
+    "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/oop3.csproj": {}
   },
   "projects": {
-    "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop/oop.csproj": {
+    "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/oop3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop/oop.csproj",
-        "projectName": "oop",
-        "projectPath": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop/oop.csproj",
+        "projectUniqueName": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/oop3.csproj",
+        "projectName": "oop3",
+        "projectPath": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/oop3.csproj",
         "packagesPath": "/home/ky/.nuget/packages/",
-        "outputPath": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop/obj/",
+        "outputPath": "/home/ky/Área de Trabalho/Estudos/studying-csharp/oop3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ky/.nuget/NuGet/NuGet.Config"
