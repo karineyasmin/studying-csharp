@@ -1,0 +1,15 @@
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/bin/Debug/net8.0/interfaces
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/bin/Debug/net8.0/interfaces.deps.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/bin/Debug/net8.0/interfaces.runtimeconfig.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/bin/Debug/net8.0/interfaces.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/bin/Debug/net8.0/interfaces.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfo.cs
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/interfaces.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/interfaces.sourcelink.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/interfaces.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/refint/interfaces.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/interfaces.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/interfaces.genruntimeconfig.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/interfaces/obj/Debug/net8.0/ref/interfaces.dll
