@@ -1,15 +1,15 @@
 ﻿namespace oop
 {
 
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Carro fusca = new();
+            Carro fusca = new("preto", "1300");
+            Carro celta = new("prata");
 
-
-            fusca.modelo = "1300";
-            fusca.cor = "Preto";
+            fusca.Cor = "amarelo";
+            fusca.Modelo = "1600";
 
             fusca.Acelerar();
             fusca.Acelerar();

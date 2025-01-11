@@ -2,13 +2,22 @@ namespace oop;
 
 public class Carro
 {
+    public string Cor { get; set; }
+    public string Modelo { get; set; }
+    public int Velocidade { get; set; }
 
-    // Atributo de instância
-    public string cor;
-    public string modelo;
-    public int velocidade;
+    // Construtores
+    public Carro(string cor, string modelo)
+    {
+        Cor = cor;
+        Modelo = modelo;
 
+    }
 
+    public Carro(string cor)
+    {
+        Cor = cor;
+    }
 
     // modificadores de acesso
     // private - o acesso é feito apenas de dentro da própria classe
@@ -19,18 +28,18 @@ public class Carro
     public void Acelerar()
     {
         Console.WriteLine("Carro acelerando...");
-        velocidade += 1;
+        Velocidade += 1;
     }
 
     public void Frear()
     {
         Console.WriteLine("Carro freando...");
-        velocidade -= 1;
+        Velocidade -= 1;
     }
 
     public int ConsultarVelocidade()
     {
-        return velocidade;
+        return Velocidade;
     }
 
     public void Virar(string direcao)
@@ -40,9 +49,9 @@ public class Carro
 
     public void Parar()
     {
-        while (velocidade > 0)
+        while (Velocidade > 0)
         {
-            velocidade -= 1;
+            Velocidade -= 1;
         }
 
         Console.WriteLine("Carro parado");
