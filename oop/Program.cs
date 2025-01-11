@@ -1,29 +1,31 @@
-namespace oop
-
-internal class Program
+﻿namespace oop
 {
-    static void Main(string[] args)
+
+    internal class Program
     {
-        Carro fusca = new();
+        static void Main(string[] args)
+        {
+            Carro fusca = new();
 
 
-        fusca.modelos = "1300";
-        fusca.cor = "Preto";
+            fusca.modelo = "1300";
+            fusca.cor = "Preto";
 
-        fusca.Acelerar();
-        fusca.Acelerar();
+            fusca.Acelerar();
+            fusca.Acelerar();
 
-        var velocidade = fusca.ConsultarVelocidade();
-        Console.WriteLine($"A velocidade atual é de {velocidade} km/h");
-        fusca.Frear();
-        fusca.Virar("direita");
-        fusca.Acelerar();
-        fusca.Frear();
-        fusca.Virar("esquerda")
-        fusca.Parar();
+            var velocidade = fusca.ConsultarVelocidade();
+            Console.WriteLine($"A velocidade atual é de {velocidade} km/h");
+            fusca.Frear();
+            fusca.Virar("direita");
+            fusca.Acelerar();
+            fusca.Frear();
+            fusca.Virar("esquerda");
+            fusca.Parar();
 
+            Console.ReadKey();
 
-        Console.ReadKey();
-
+        }
     }
+
 }
