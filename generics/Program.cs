@@ -4,9 +4,11 @@ class Program
 {
     static void Main(string[]args)
     {
-        Dicionario<> dic = new();
+        Dicionario<int, string> dic = new();
+        dic.Chave = 100;
+        dic.Valor = "valor100";
 
-
+        dic.Exibir();
     }
 
 
@@ -31,4 +33,27 @@ class Dicionario<TKey, TValue>
         Console.WriteLine($"Chave: {Chave} - Valor: {Valor}");
     }
 
+    public void Gravar(TValue valor)
+    {
+
+    }
+
+    class ObjetoDerivado : Dicionario<decimal, bool>
+    { 
+        public void Escrever()
+        {
+            Chave = 15.1m;
+            Valor = true;
+
+        }
+
+    }
+
+    class ObjetoComum
+    {
+        public void EscreverMensagem<T>(T mensagem)
+        {
+            
+        }
+    }
 }
