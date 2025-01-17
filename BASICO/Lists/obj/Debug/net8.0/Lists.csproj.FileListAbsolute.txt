@@ -1,0 +1,15 @@
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/Lists.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/Lists.AssemblyInfo.cs
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/Lists.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/Lists.sourcelink.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/bin/Debug/net8.0/Lists
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/bin/Debug/net8.0/Lists.deps.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/bin/Debug/net8.0/Lists.runtimeconfig.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/bin/Debug/net8.0/Lists.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/bin/Debug/net8.0/Lists.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/Lists.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/refint/Lists.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/Lists.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/Lists.genruntimeconfig.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Lists/obj/Debug/net8.0/ref/Lists.dll

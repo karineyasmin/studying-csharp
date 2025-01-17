@@ -1,0 +1,15 @@
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/bin/Debug/net8.0/TiposPrimitivos
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/bin/Debug/net8.0/TiposPrimitivos.deps.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/bin/Debug/net8.0/TiposPrimitivos.runtimeconfig.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/bin/Debug/net8.0/TiposPrimitivos.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/bin/Debug/net8.0/TiposPrimitivos.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/TiposPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/TiposPrimitivos.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/TiposPrimitivos.AssemblyInfo.cs
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/TiposPrimitivos.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/TiposPrimitivos.sourcelink.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/TiposPrimitivos.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/refint/TiposPrimitivos.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/TiposPrimitivos.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/TiposPrimitivos.genruntimeconfig.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/TiposPrimitivos/obj/Debug/net8.0/ref/TiposPrimitivos.dll

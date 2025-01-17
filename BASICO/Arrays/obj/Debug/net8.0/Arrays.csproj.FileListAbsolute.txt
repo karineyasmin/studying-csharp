@@ -1,0 +1,15 @@
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/bin/Debug/net8.0/Arrays
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Arrays/obj/Debug/net8.0/ref/Arrays.dll

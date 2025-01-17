@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposPrimitivos", "TiposPrimitivos\TiposPrimitivos.csproj", "{0E81CBF3-FED3-415C-838C-F236B5EF0D46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{7763873A-3455-4552-9EDB-ABD89B5A2A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{0092926A-1EFE-41E6-AA1A-08E36E29FC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E81CBF3-FED3-415C-838C-F236B5EF0D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E81CBF3-FED3-415C-838C-F236B5EF0D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E81CBF3-FED3-415C-838C-F236B5EF0D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E81CBF3-FED3-415C-838C-F236B5EF0D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7763873A-3455-4552-9EDB-ABD89B5A2A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7763873A-3455-4552-9EDB-ABD89B5A2A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7763873A-3455-4552-9EDB-ABD89B5A2A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7763873A-3455-4552-9EDB-ABD89B5A2A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0092926A-1EFE-41E6-AA1A-08E36E29FC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0092926A-1EFE-41E6-AA1A-08E36E29FC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0092926A-1EFE-41E6-AA1A-08E36E29FC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0092926A-1EFE-41E6-AA1A-08E36E29FC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
