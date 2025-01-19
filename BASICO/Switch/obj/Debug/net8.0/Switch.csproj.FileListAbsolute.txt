@@ -1,0 +1,15 @@
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/bin/Debug/net8.0/Switch
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/bin/Debug/net8.0/Switch.deps.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/bin/Debug/net8.0/Switch.runtimeconfig.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/bin/Debug/net8.0/Switch.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/bin/Debug/net8.0/Switch.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/Switch.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/Switch.AssemblyInfo.cs
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/Switch.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/Switch.sourcelink.json
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/Switch.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/refint/Switch.dll
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/Switch.pdb
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/Switch.genruntimeconfig.cache
+/home/ky/Área de Trabalho/Estudos/studying-csharp/BASICO/Switch/obj/Debug/net8.0/ref/Switch.dll

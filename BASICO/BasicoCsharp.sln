@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{0092926A-1EFE-41E6-AA1A-08E36E29FC87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversoes", "Conversoes\Conversoes.csproj", "{94A79201-AB71-4721-81AB-91F4F0DB411A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0092926A-1EFE-41E6-AA1A-08E36E29FC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0092926A-1EFE-41E6-AA1A-08E36E29FC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0092926A-1EFE-41E6-AA1A-08E36E29FC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A79201-AB71-4721-81AB-91F4F0DB411A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A79201-AB71-4721-81AB-91F4F0DB411A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A79201-AB71-4721-81AB-91F4F0DB411A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A79201-AB71-4721-81AB-91F4F0DB411A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

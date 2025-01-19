@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiposPrimitivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2be500bdcc13ec1d253418aafda91f4f0ac84aea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f2cdbd4d6573a0c7745fbb344a0368a04d48ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiposPrimitivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiposPrimitivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
